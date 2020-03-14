@@ -364,7 +364,7 @@ results[0].cells[4] // <span class="cell" style="--cell-index: 3; --row-index: 1
 
 #### Returns
 
-The `Splitting` fucntion always returns an array of objects with the following properties based on plugin name, giving you access to each element's splits to use with JavaScript animation libraries or for additional processing.
+The `Splitting` function always returns an array of objects with the following properties based on plugin name, giving you access to each element's splits to use with JavaScript animation libraries or for additional processing.
 
 ```html
 <div data-splitting>Splitting Text</div>
