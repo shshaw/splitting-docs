@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "vuepress": "^0.12.0"
+    "vuepress": "^1.9.7"
   },
   "devDependencies": {
     "scroll-out": "^2.0.1"
